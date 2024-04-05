@@ -183,3 +183,9 @@ form button {
     filter: grayscale(60%);
 }
 
+.gallery-2:hover{
+    transform: scale(1.5);
+    
+}
+   
+    
